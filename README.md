@@ -5,7 +5,7 @@
 ## Características
 
 - **Búsqueda de estaciones de servicio**: Filtra las estaciones de servicio en España por ciudad y tipo de combustible.
-- **Precios actualizados**: Los precios de los combustibles se actualizan automáticamente cada media hora.
+- **Precios actualizados**: Los precios de los combustibles se actualizan automáticamente cada media hora. Los precios se toman de: https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/
 - **Interfaz gráfica**: Se ha creado utilizando Flet para crear una interfaz sencilla y fácil de usar.
 - **Cambio de tema**: Permite cambiar entre un tema claro y oscuro.
 - **Accesibilidad del código fuente**: Enlace directo al repositorio de GitHub para ver el código fuente y colaborar.
