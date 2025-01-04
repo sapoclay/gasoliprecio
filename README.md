@@ -1,5 +1,7 @@
 # Gasoliprecio
 
+![about-gasoliprecio](https://github.com/user-attachments/assets/fb02339c-62d0-4d1a-97d8-d98aa5ddb091)
+
 **Gasoliprecio** es una aplicación desarrollada en Python utilizando el framework [Flet](https://flet.dev/), que permite a los usuarios buscar estaciones de servicio en España, filtrando por ciudad y tipo de combustible. Además, proporciona información sobre los precios de los combustibles en tiempo real y permite abrir la ubicación de las estaciones en Google Maps.
 
 ## Características
@@ -41,6 +43,8 @@ python run_app.py
 Este script creará un entorno virtual llamado venv, instalará las dependencias desde requirements.txt y ejecutará la aplicación.
 
 ## Funcionalidades
+
+![gasoliprecio-funcionando](https://github.com/user-attachments/assets/6f5b3263-7770-44f3-9147-e253789a7dec)
 
 - Introducir ciudad: Permite al usuario ingresar una ciudad y buscar las estaciones de servicio disponibles en esa área.
 - Seleccionar tipo de combustible: Filtra las estaciones por tipo de combustible como Gasóleo A, Gasolina 95, GLP, etc.
